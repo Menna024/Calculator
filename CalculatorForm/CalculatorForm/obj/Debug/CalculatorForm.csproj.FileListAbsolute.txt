@@ -1,0 +1,10 @@
+D:\Calculator\CalculatorForm\CalculatorForm\bin\Debug\CalculatorForm.exe.config
+D:\Calculator\CalculatorForm\CalculatorForm\bin\Debug\CalculatorForm.exe
+D:\Calculator\CalculatorForm\CalculatorForm\bin\Debug\CalculatorForm.pdb
+D:\Calculator\CalculatorForm\CalculatorForm\obj\Debug\CalculatorForm.csproj.AssemblyReference.cache
+D:\Calculator\CalculatorForm\CalculatorForm\obj\Debug\CalculatorForm.Form1.resources
+D:\Calculator\CalculatorForm\CalculatorForm\obj\Debug\CalculatorForm.Properties.Resources.resources
+D:\Calculator\CalculatorForm\CalculatorForm\obj\Debug\CalculatorForm.csproj.GenerateResource.cache
+D:\Calculator\CalculatorForm\CalculatorForm\obj\Debug\CalculatorForm.csproj.CoreCompileInputs.cache
+D:\Calculator\CalculatorForm\CalculatorForm\obj\Debug\CalculatorForm.exe
+D:\Calculator\CalculatorForm\CalculatorForm\obj\Debug\CalculatorForm.pdb
